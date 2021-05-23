@@ -6,3 +6,9 @@ body{
     color: #FFF;
 }
 
+#bg-img{
+    background: url("../img/12.jpeg");
+    background-size:100% ;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
